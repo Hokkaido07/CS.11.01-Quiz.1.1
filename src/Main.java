@@ -14,6 +14,7 @@ public class Main {
         int age;
         String firstName;
         String myFavouriteFood;
+
         //Asks user for their first name
         System.out.println("Please enter your first name: ");
         firstName = scanner.nextLine();
